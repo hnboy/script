@@ -1,0 +1,6 @@
+# Wine Lutris
+## 炉石传说
+- Go to Lutris launcher
+- Select Hearthstone
+- Under Play button, click Configure
+- You need to add this to /*DLL Overrides*/ under Runner Options: Key: locationapi.dll | Value: disabled
